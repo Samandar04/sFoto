@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/sFoto/static/css/main.8709a6d3.css",
+    "main.js": "/sFoto/static/js/main.8f25cc67.js",
+    "static/js/787.50fbe8b7.chunk.js": "/sFoto/static/js/787.50fbe8b7.chunk.js",
+    "static/media/year-comp6.jpg": "/sFoto/static/media/year-comp6.c096bc5e9541006a4854.jpg",
+    "static/media/oscar-keys-ojVMh1QTVGY-unsplash.jpg": "/sFoto/static/media/oscar-keys-ojVMh1QTVGY-unsplash.fdaf5216e5ea658103fd.jpg",
+    "static/media/dark-city10.jpg": "/sFoto/static/media/dark-city10.d700f37cf6ffc77a612c.jpg",
+    "static/media/hello.png": "/sFoto/static/media/hello.479b48af3371c7538907.png",
+    "static/media/cate.png": "/sFoto/static/media/cate.2f3eac888d0e117dfdea.png",
+    "static/media/home.png": "/sFoto/static/media/home.35a772bdd9189e53be87.png",
+    "static/media/comp.png": "/sFoto/static/media/comp.184e88c9c3323fe176ca.png",
+    "static/media/dark-comp4.jpg": "/sFoto/static/media/dark-comp4.5c4c395e75ca7cb362f3.jpg",
+    "static/media/camera4.jpg": "/sFoto/static/media/camera4.d5d8853ae56d91957e74.jpg",
+    "static/media/navbar.png": "/sFoto/static/media/navbar.433c770f8824f13129f7.png",
+    "static/media/cool-background.png": "/sFoto/static/media/cool-background.2ef5477bc0c34e74bece.png",
+    "static/media/best.png": "/sFoto/static/media/best.85c02ad9298413fccdf0.png",
+    "static/media/tel.png": "/sFoto/static/media/tel.f2104c8d66b4bbf2242b.png",
+    "static/media/back-img.jpg": "/sFoto/static/media/back-img.9d7fd445d9e0e9e312c8.jpg",
+    "static/media/music.png": "/sFoto/static/media/music.11be90b078197206c512.png",
+    "static/media/photo1.png": "/sFoto/static/media/photo1.87605b8eae90e0f1f4be.png",
+    "static/media/right.png": "/sFoto/static/media/right.b732681ffda95fd9401b.png",
+    "static/media/sphoto.jpg": "/sFoto/static/media/sphoto.063b5c031a6bc83621d1.jpg",
+    "static/media/logo.svg": "/sFoto/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sFoto/index.html",
+    "main.8709a6d3.css.map": "/sFoto/static/css/main.8709a6d3.css.map",
+    "main.8f25cc67.js.map": "/sFoto/static/js/main.8f25cc67.js.map",
+    "787.50fbe8b7.chunk.js.map": "/sFoto/static/js/787.50fbe8b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8709a6d3.css",
+    "static/js/main.8f25cc67.js"
+  ]
+}
